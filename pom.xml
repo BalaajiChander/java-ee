@@ -80,6 +80,15 @@
             <version>1.1.4</version>
             <scope>test</scope>
         </dependency>
+
+
+        <!--Apache DB in-memery DB-->
+        <dependency>
+            <groupId>org.apache.derby</groupId>
+            <artifactId>derby</artifactId>
+            <version>10.15.2.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
